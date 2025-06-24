@@ -1,6 +1,6 @@
 # Hi, I'm AbdelRhman 👋
 
-I'm an AI Engineering student with a passion for building smart and impactful solutions. I love working on real-world projects that mix software with AI and electronics (Arduino, sensors, automation). I enjoy turning ideas into reality using code and open-source tools.
+I'm an AI Engineering.
 
 ## 🚀 What I Do
 - 🔬 AI & Machine Learning Projects (classification, OCR, NLP, image processing)
@@ -24,11 +24,7 @@ I'm an AI Engineering student with a passion for building smart and impactful so
 [![](https://visitcount.itsvg.in/api?id=abdelrhman-m2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🔧 Tech Stack
-- **Languages**: Python, C/C++, SQL, JavaScript
-- **Frameworks**: Flask, TensorFlow, Scikit-learn, OpenCV
-- **Tools**: Git, Jupyter, VS Code, Arduino IDE
-- **Cloud & APIs**: Firebase, OpenAI API, Telegram Bot API
+
 
 ## 📌 Projects
 Here are some cool things I’ve worked on:
